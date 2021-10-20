@@ -1,0 +1,3 @@
+a1638acb JIT Learning
+
+JIT (just-in-time) learning is a philosophy based on just-in-time manufacturing. The concept of "just-in-time" has also been applied in computer science to create, for example, just-in-time compilers. In all cases, the just-in-time philosophy is to deliver goods/services when they are asked for and not before. When applied to learning, this means always approaching a topic to be learned with some skepticism about whether you really need to know this information _now_, and to what extent. A deep dive may not be necessary or worthwhile.
