@@ -7,4 +7,4 @@ Thus, it incorporates ideas from Scrum and [kanban](4d3ef3a9_kanban.md) and also
 from various other methodologies that can be applied to self-directed learning, such
 as [stories](30cc55ee_story.md) and [Test-Driven Learning](233864f3_test_driven_learning.md).
 
-A major goal of "agile" learning is [flow](865e156b_flow.md).
+A major goal of "agile" learning is [flow](865e156b_flow.md). See also [learning sprints](b2126c36_what_is_a_learning_sprint.md).
