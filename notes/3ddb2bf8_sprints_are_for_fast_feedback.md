@@ -1,3 +1,3 @@
 # 3ddb2bf8 Sprints are for fast feedback
 
-A great part of the value of "agile" in software development is in bringing _demonstrable_ units of product to the view of stakeholders at regular intervals for fast feedback. Based on this feedback, the agile team can pivot. A question for research and thought is, [how do you apply this idea to agile learning](b2126c36_what_is_a_learning_sprint.md)?
+A great part of the value of "agile" in software development is in bringing _demonstrable_ units of product to the view of stakeholders at regular intervals for fast feedback. Based on this feedback, the agile team can pivot. A question for research and thought is, [how do you apply this idea to agile learning](b2126c36_what_is_a_learning_sprint.md)? See also the [80-20 rule](90a0f4fe_the_80_20_rule.md);
