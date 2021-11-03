@@ -8,3 +8,5 @@ from various other methodologies that can be applied to self-directed learning, 
 as [stories](30cc55ee_story.md) and [Test-Driven Learning](233864f3_test_driven_learning.md).
 
 A major goal of "agile" learning is [flow](865e156b_flow.md). See also [learning sprints](b2126c36_what_is_a_learning_sprint.md).
+
+However, contrast that [learning is not manufacturing](1288482d_learning_is_not_manufacturing.md).
